@@ -1,0 +1,11 @@
+import speech_recognition as sr
+
+r=sr.Recognizer()
+
+with sr.Microphone() as s:
+    while True:
+        r.adjust_for_ambient_noise(s)
+
+        print("say something")
+        audio=r.listen(s)
+        print (r.recognize_sphinx(audio))

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "electra-eye-for-blind",
+  "private_key_id": "enter_yours",
+  "private_key": "enter_yours",
+  "client_email": "enter_yours@iam.gserviceaccount.com",
+  "client_id": "enter_yours",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "enter_yours"
+}
