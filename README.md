@@ -2,7 +2,7 @@
 
 ## Overview
 
-Elektra is an innovative assistive technology designed to enhance the independence and daily lives of visually impaired individuals. Utilizing Python, machine learning (ML), and Raspberry Pi, Elektra provides audio object identification capabilities, empowering users with real-time information about their surroundings.
+Elektra is an innovative assistive technology designed to enhance the independence and daily lives of visually impaired individuals. Utilizing Python, machine learning (ML), and Raspberry Pi, Elektra provides audio object identification capabilities, empowering users with real-time information about their surroundings. [**see elektra presentation file and other docs for better understanding**]
 
 ## Features
 
